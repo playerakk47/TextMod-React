@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextMod-React/static/css/main.e03895e7.css",
-    "main.js": "/TextMod-React/static/js/main.18a53ad5.js",
-    "static/js/787.cfd8f164.chunk.js": "/TextMod-React/static/js/787.cfd8f164.chunk.js",
-    "index.html": "/TextMod-React/index.html",
-    "main.e03895e7.css.map": "/TextMod-React/static/css/main.e03895e7.css.map",
-    "main.18a53ad5.js.map": "/TextMod-React/static/js/main.18a53ad5.js.map",
-    "787.cfd8f164.chunk.js.map": "/TextMod-React/static/js/787.cfd8f164.chunk.js.map"
+    "main.css": "/TextMod/static/css/main.e03895e7.css",
+    "main.js": "/TextMod/static/js/main.6e6c8882.js",
+    "static/js/787.cfd8f164.chunk.js": "/TextMod/static/js/787.cfd8f164.chunk.js",
+    "index.html": "/TextMod/index.html",
+    "main.e03895e7.css.map": "/TextMod/static/css/main.e03895e7.css.map",
+    "main.6e6c8882.js.map": "/TextMod/static/js/main.6e6c8882.js.map",
+    "787.cfd8f164.chunk.js.map": "/TextMod/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e03895e7.css",
-    "static/js/main.18a53ad5.js"
+    "static/js/main.6e6c8882.js"
   ]
 }
